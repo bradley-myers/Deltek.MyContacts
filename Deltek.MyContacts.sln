@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deltek.MyContacts", "Deltek.MyContacts\Deltek.MyContacts.csproj", "{B2564B57-B0DC-466B-A30B-BF78F2B9466F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deltek.MyContacts.Tests", "Deltek.MyContacts.Tests\Deltek.MyContacts.Tests.csproj", "{EF381FDF-6B41-4D81-90F4-2D44DC70C7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2564B57-B0DC-466B-A30B-BF78F2B9466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2564B57-B0DC-466B-A30B-BF78F2B9466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2564B57-B0DC-466B-A30B-BF78F2B9466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2564B57-B0DC-466B-A30B-BF78F2B9466F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF381FDF-6B41-4D81-90F4-2D44DC70C7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF381FDF-6B41-4D81-90F4-2D44DC70C7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF381FDF-6B41-4D81-90F4-2D44DC70C7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF381FDF-6B41-4D81-90F4-2D44DC70C7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
